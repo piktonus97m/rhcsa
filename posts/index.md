@@ -1,3 +1,0 @@
-¡Hola y bienvenidos a nuestra página de recursos para la certificación Red Hat Certified System Administrator (RHCSA)! Si estás buscando prepararte para el examen RHCSA, has llegado al lugar adecuado. Aquí encontrarás una amplia variedad de recursos y herramientas que te ayudarán a dominar las habilidades necesarias para convertirte en un administrador de sistemas Linux certificado por Red Hat.
-
-[[Objetivos del examen de certificación]]
